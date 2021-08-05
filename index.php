@@ -159,16 +159,16 @@ blink {
 }
 
   </style>
-<!-- <iframe hidden="true" width="0" height="0" src="https://www.youtuberepeater.com/watch?v=FQBJyL-MOys#gsc.tab=0" frameborder="0" allowfullscreen></iframe>--> 
+<<iframe width="0" height="0" src="https://www.youtuberepeater.com/watch?v=FQBJyL-MOys#gsc.tab=0" frameborder="0" allowfullscreen></iframe>
 </head>
-<!-- Imagine getting hacked in 2021 -->
+<!-- Imagine getting hacked in 2020 -->
  <body>
 
 
 	<table width=100% height=100%>
 	  <td align="center">
     
-      <pre class="yhbh">
+      <pre class="rainbow">
 
         
                                                                                                                                                                                                               
@@ -186,11 +186,8 @@ blink {
 \  ' ;           `--`----'            `--''     |  ,     .-./  '---" \   \  /         /    \  /  \   \  /  \   \  /'---'               `--''     |  ,     .-./\   \  / '--'       \   \  /  \   \  /   
 `--`                                            `--`---'             `----'          `-'----'    `----'    `----'                                `--`---'     `----'              `----'    `----'    
      </pre>                                                                                                                                                
-     <Pre class="rainbow">
 
-</Pre>
-
-<div class="rainbow"><a class="rainbow" style="color: white;" href="#"></h4></div>
+<div class="rainbow"></h4></div>
   
     <br>
   </body>
@@ -199,9 +196,7 @@ blink {
 
 <body onLoad="animate()">
 
-  <!------------------------------------
-  Dior fat motherfucker
-  ------------------------------------->
+
   
   <script type=text/javascript><!--// Method-5 animation script (compressed)
   
