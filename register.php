@@ -1,11 +1,7 @@
 <?php
 require_once("rip/configuration.php");
 
-if(Loged == TRUE)
-{
-	header("Location: me");
-	exit;
-}
+
 
 $regerror = '';
 
